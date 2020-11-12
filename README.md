@@ -1,2 +1,2 @@
 # Rcolor
- Use typescript to generate random colors
+Get random colors
